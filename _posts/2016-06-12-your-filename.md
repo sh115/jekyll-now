@@ -15,4 +15,5 @@ published: false
     
 ## Pick-of-the-week
 	I do not have any relevant informations related to software development, so I will try to pick up some of software related articles next week, and now that is my plan for next week!
+    
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
