@@ -7,7 +7,7 @@ published: true
 ## What's in your way?
 	There is not any external obstacles that get in my way, but I would like to schedule myself better and spend the time more wisely during this summer.
     
- ## What will you do next week?
+## What will you do next week?
  	I will try my best to follow my planned schedule and accomplish what I am hoping.
 
 ## Experience in the class
@@ -15,4 +15,3 @@ published: true
     
 ## Pick-of-the-week
 	I do not have any relevant informations related to software development, so I will try to pick up some of software related articles next week, and now that is my plan for next week!
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
