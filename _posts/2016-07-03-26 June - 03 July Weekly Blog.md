@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 26 June - 03 July Weekly Blog.md
+title: 26 June - 03 July Weekly Blog
 published: true
 ---
 ## What did you do this past week?
