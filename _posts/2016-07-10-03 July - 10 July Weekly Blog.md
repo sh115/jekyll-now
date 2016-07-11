@@ -15,4 +15,4 @@ I will probably do the same thing. Doing project and going to class and work. Bu
 ## Pick or Tip of the week
 This article talks about MIT researchers have created a 3D printing that could print out the thousands of hair-like-structures. This would normally take over an hour to do, but the researchers were able to create a new software called “Cillia” which reduced the time to under a few minutes. Being able to efficiently create a detailed work of 3D printing is very fascinating and interesting enough to read how Cillia could provide in near future.
 
-<a href="https://www.sciencedaily.com/releases/2016/06/160617140606.html">Link </a>
+<a href="https://www.sciencedaily.com/releases/2016/06/160617140606.htm">Link </a>
