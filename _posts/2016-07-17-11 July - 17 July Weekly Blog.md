@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 04 July ~ 10 July Weekly Blog
+title: 11 July ~ 17 July Weekly Blog
 published: true
 ---
 ## What did you do this past week?
