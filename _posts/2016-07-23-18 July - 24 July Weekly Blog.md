@@ -1,1 +1,7 @@
-
+---
+layout: post
+title: 18 July ~ 24 July Weekly Blog
+published: true
+---
+## Last Blog!
+I will talk about overall experience in this class and the reason why I took this class and why should everyone take this class for those who are planning to take this class. First, I decided to take this class, because I really wanted to learn something new and experience different skills. My expectation was partially met and still has some disappointment. This class indeed introduces the new kind of experience which let the students do everything to learn and implement in order to do the project. This was really good experience because it was very overwhelming initially. I agree that being able to pick up the new technology is enormously important in the industry, so I liked it. As I start working on this project (3, 4, 5), I was assigned to a specific role of implementing most of front-end. I did little bit of back-end using python and Flask, but I wish I could have learned more about the back-end. I am a lot more comfortable with front-end right now, but still have no idea what is going on in the back-end, especially because I have not been exposed to the database stuffs. Hopefully, I will be able to understand these (back-end stuffs) when I start studying by myself little bit. Still, I think this class provided us at least starting point for creating websites and using python. These are the most beneficial things that I feel right now and if those of you who do not know either creating website with database and python should really consider taking this class. Overall, the class was great and Professor Downing’s lecture was fantastic, I would love to take another class from him but I am just little afraid of his quizzes.
